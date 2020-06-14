@@ -1,2 +1,2 @@
-# bash_scripts_osx_util
+# bash scripts util
 useful bash scripts for linux
